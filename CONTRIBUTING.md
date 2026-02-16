@@ -24,7 +24,7 @@ Once you finish a task:
 3. Assign the **Maintainer** to review your work.
 4. **DO NOT** click "Merge" yourself. The Maintainer will merge it after review.
 
-![Warning]
+> [!Warning]
 > Hey team, because we are on the free version of GitHub, the 'Main' branch isn't technically locked. Please do not push directly to Main. Always create a sub-branch and tell me when you're ready for a merge.
 
 ## 4. Folder Structure
