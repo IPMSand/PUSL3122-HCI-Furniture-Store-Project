@@ -1,35 +1,44 @@
-# Team Collaboration Guide (GitHub Desktop) 
+# 🚀 Team Collaboration Guide
 
-To keep our project organized, please follow these steps when contributing.
+Follow these simple steps to contribute to our project.
+> [!Warning]
+> **Never work directly on the 'Main' branch.** Don't touch it.
+---
 
-## 1. Commit Message Rules
-Every time you commit use easily trackble key word like below
+## 1. Commit Keywords
+Start every save (commit) with one of these:
+* **feat:** New features or design (e.g., `feat: add sofa`)
+* **docs:** Research or notes (e.g., `docs: user stories`)
+* **fix:** Fixing a mistake (e.g., `fix: button color`)
+* **chore:** Moving folders/setup (e.g., `chore: rename files`)
 
-* **feat**: New features or design work (e.g., `feat: add 3D sofa model`)
-* **docs**: Any documentation or research (e.g., `docs: add user stories`)
-* **chore**: Setup or folder maintenance (e.g., `chore: add .gitkeep`)
-* **fix**: Fixing a bug or alignment issue (e.g., `fix: navigation bar alignment`)
+---
 
-## 2. Working on Tasks
-1. **Fetch Origin**: Open GitHub Desktop and click "Fetch origin" to ensure you have the latest version.
-2. **Create a Branch**: Click the "Current Branch" button at the top, then click "New Branch".
-   - Name it: `type/description` (e.g., `feat/login-page` or `docs/requirements`)
-3. **Commit**: Write your message in the "Summary" box on the bottom left using the prefixes above.
-4. **Publish**: Click "Publish branch" to send it to GitHub.
+## 2. Daily Workflow
+1. **Update:** Open GitHub Desktop and click **"Fetch origin"**.
+2. **Choose Week:** Click "Current Branch" and select **`week1-analysis`**.
+3. **New Task:** Click "New Branch" and name it: `folder/task-name` 
+   *(Example: `docs/1-user-research`)*
+4. **Save & Send:** Write your summary (bottom left) → **Commit** → **Publish branch**.
+
+
+
+---
 
 ## 3. Merging Work
-Once you finish a task:
-1. Click **"Create Pull Request"** in GitHub Desktop.
-2. This will open GitHub in your browser. 
-3. Assign the **Maintainer** to review your work.
-4. **DO NOT** click "Merge" yourself. The Maintainer will merge it after review.
+When your task is 100% done:
+1. Click **"Create Pull Request"** (this opens your browser).
+2. **Check the Base:** Ensure it is merging into **`week1-analysis`** (NOT main).
+3. **Assign:** Select the **Maintainer** as the reviewer.
+4. **Stop:** Do NOT click "Merge." Wait for approval.
 
-> [!Warning]
-> Hey team, because we are on the free version of GitHub, the 'Main' branch isn't technically locked. Please do not push directly to Main. Always create a sub-branch and tell me when you're ready for a merge.
+---
 
-## 4. Folder Structure
-* **/docs**: Requirements, Personas, and Research.
-* **/design**: Figma links, icons, and wireframes.
-* **/app**: Source code and 3D models.
+## 4. Folder Map
+Stick to these folders to keep things clean:
+* 📁 **/docs** → Research, Interviews, Analysis.
+* 📁 **/design** → Figma, Icons, UI.
+* 📁 **/app** → Code and 3D Models.
 
-For Now
+> [!IMPORTANT]
+> **Never work directly on the 'Main' branch.** Always create your own branch starting from the current Week branch.
