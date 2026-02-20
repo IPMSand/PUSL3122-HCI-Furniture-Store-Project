@@ -14,7 +14,7 @@
 ---
 ##  2. Non-Functional Requirements 
 *Quality standards and HCI (Human-Computer Interaction) principles.*
-- [View](./details/detailed-fr.md)
+- [View Detailed Non-Functional Specification](./details/detailed-fr.md)
 
 * **Visibility of Status:** Immediate feedback (Toast notifications) and a **Percentage Loading Bar ($0\% \to 100\%$)** for renders.
 * **Error Recovery:** Mandatory **Undo/Redo ($Ctrl+Z$)** and "Confirm Delete" prompts to prevent data loss.
