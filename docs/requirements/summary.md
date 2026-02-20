@@ -22,3 +22,22 @@
 * **Efficiency:** **Progressive Disclosure** (hiding advanced tools initially) to solve "Cluttered UI" complaints.
 * **Performance:** Low-latency 3D generation to keep customers engaged during live consultations.
 
+---
+## 4. Task Analysis (HTA) - Simplified
+- [View Full Prioritization Roadmap](./details/detailed-hta.md)
+1. **Init:** Login $\to$ Search/Create Client Project.
+2. **Build:** Select Shape $\to$ Enter Dimensions ($m/cm$).
+3. **Design:** Drag Furniture $\to$ Scale with Handles $\to$ Fix errors with Undo.
+4. **View:** Toggle 3D $\to$ Monitor Loading Bar $\to$ Orbit Camera.
+5. **Share:** Save to Cloud $\to$ Send **Viewer Link** to Homeowner.
+
+---
+##  3. Implementation Roadmap
+*Prioritized by user impact and technical necessity.*
+- [View Full Prioritization Roadmap](./details/detailed-roadmap.md)
+
+| Priority | Requirement | Category | Focus |
+| :--- | :--- | :--- | :--- |
+| **P1 (Critical)** | Portfolio CRUD, Numerical Input, Undo/Redo. | FR/NFR | **Safety & Precision:** Core infrastructure. |
+| **P2 (High)** | Scaling Handles, 3D Toggle, Viewer Links. | FR | **Usability:** Voted #1 intuitive interaction. |
+| **P3 (Medium)** | Global Themes, Accessibility Toggles. | FR/NFR | **Aesthetics:** Polish and inclusivity. |
