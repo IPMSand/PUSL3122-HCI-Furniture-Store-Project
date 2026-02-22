@@ -12,7 +12,7 @@
 - and only inside it's specific folder
   - `docs` for analysis
   - `design` for designs
-  - `dev` for development
+  - `app` for development
   - `tests` for testing
 ## Initial Structure for now
 ```text
