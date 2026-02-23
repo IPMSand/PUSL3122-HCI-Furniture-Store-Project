@@ -15,7 +15,7 @@
     
 - **2.2 Dimensional Input -** Enter exact **Numerical $m/cm$** in the sidebar. (IKEA Benchmark).
     
-- **2.3 Environmental Setup -** Set base wall/floor colors. (Sir's Requirement).
+- **2.3 Environmental Setup -** Set base wall/floor colors. (Initial Requirement).
     
 
 ### **3. 2D Layout (The Interaction Loop)**
@@ -35,7 +35,7 @@
     
 - **4.2 Walkthrough -** Pan/Rotate camera to verify **"Spatial Fit"**. (Major User Pain Point).
     
-- **4.3 Styling -** Apply **Global Themes** (e.g., Modern Blue) for instant style. (Sir's Requirement).
+- **4.3 Styling -** Apply **Global Themes** (e.g., Modern Blue) for instant style. (Initial Requirement).
     
 
 ### **5. Completion & Handover**
