@@ -1,6 +1,6 @@
 ## 1. Functional Requirements 
 *Core features required for a professional design workflow.*
-- [View Detailed Functional Specifications](./details/detailed-fr.md)
+[View Detailed Functional Specifications](./details/detailed-fr.md)
 
 | Function | Category | Key Requirements | Rationale |
 | :- | :--- | :--- | :--- |
@@ -14,17 +14,17 @@
 ---
 ##  2. Non-Functional Requirements 
 *Quality standards and HCI (Human-Computer Interaction) principles.*
-- [View Detailed Non-Functional Specification](./details/detailed-fr.md)
+[View Detailed Non-Functional Specification](./details/detailed-fr.md)
 
-* **Visibility of Status:** Immediate feedback (Toast notifications) and a **Percentage Loading Bar ($0\% \to 100\%$)** for renders.
-* **Error Recovery:** Mandatory **Undo/Redo ($Ctrl+Z$)** and "Confirm Delete" prompts to prevent data loss.
-* **Accessibility:** **Adjustable font sizes** for measurements and WCAG-compliant color contrast for store lighting.
-* **Efficiency:** **Progressive Disclosure** (hiding advanced tools initially) to solve "Cluttered UI" complaints.
-* **Performance:** Low-latency 3D generation to keep customers engaged during live consultations.
+* **Visibility of Status -** Immediate feedback (Toast notifications) and a **Percentage Loading Bar ($0\% \to 100\%$)** for renders.
+* **Error Recovery -** Mandatory **Undo/Redo ($Ctrl+Z$)** and "Confirm Delete" prompts to prevent data loss.
+* **Accessibility -** Adjustable font sizes for measurements and WCAG-compliant color contrast for store lighting.
+* **Efficiency -** **Progressive Disclosure** (hiding advanced tools initially) to solve "Cluttered UI" complaints.
+* **Performance -** Low-latency 3D generation to keep customers engaged during live consultations.
 
 ---
 ## 4. Task Analysis (HTA) - Simplified
-- [View Full Prioritization Roadmap](./details/detailed-hta.md)
+[View Full Prioritization Roadmap](./details/detailed-hta.md)
 1. **Init:** Login $\to$ Search/Create Client Project.
 2. **Build:** Select Shape $\to$ Enter Dimensions ($m/cm$).
 3. **Design:** Drag Furniture $\to$ Scale with Handles $\to$ Fix errors with Undo.
@@ -34,7 +34,7 @@
 ---
 ##  3. Implementation Roadmap
 *Prioritized by user impact and technical necessity.*
-- [View Full Prioritization Roadmap](./details/detailed-roadmap.md)
+[View Full Prioritization Roadmap](./details/detailed-roadmap.md)
 
 | Priority | Requirement | Category | Focus |
 | :--- | :--- | :--- | :--- |
