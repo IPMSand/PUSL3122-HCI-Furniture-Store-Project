@@ -1,11 +1,11 @@
 # 1. Research Findings - Survey >>
-**Source:** Raw data from 24 participants (Pro Designers & Homeowners) + IKEA/Planner 5D Benchmarks.
+**Source -** Raw data from 24 participants (Pro Designers & Homeowners) + IKEA/Planner 5D Benchmarks.
 
-* **Primary UX Pain Point:** "Cluttered Interfaces" and "Spatial Fit Anxiety" (Fear of buying furniture that won't fit).
-* **Intuitive Interaction:** 46% of respondents voted **Direct Manipulation (Corner Handles)** as the most natural way to scale.
-* **Workflow Preference:** Professionals prioritize **Numerical Dimensions ($m/cm$)** over dragging walls.
-* **The "Post-Consultation" Gap:** Homeowners highly requested a **"Viewer Link"** to review designs remotely.
-* **Accessibility:** Significant request for **Adjustable Font Sizes** for measurements.
+* **Primary UX Pain Point -** "Cluttered Interfaces" and "Spatial Fit Anxiety" (Fear of buying furniture that won't fit).
+* **Intuitive Interaction -** 46% of respondents voted **Direct Manipulation (Corner Handles)** as the most natural way to scale.
+* **Workflow Preference -** Professionals prioritize **Numerical Dimensions ($m/cm$)** over dragging walls.
+* **The "Post-Consultation" Gap -** Homeowners highly requested a **"Viewer Link"** to review designs remotely.
+* **Accessibility -** Significant request for **Adjustable Font Sizes** for measurements.
 
   
 # 2. Finalized Functional requirements >>
@@ -72,7 +72,7 @@
 
 ## HCI Design Principles (Handover Advice)
 
-1. **Hick’s Law:** Avoid a "cluttered UI." Use a **Tabbed Menu** (1. Room -> 2. Furniture -> 3. Preview) to limit choices per screen.
-2. **Fitts’s Law:** Make common actions like **Undo**, **Save**, and **3D Toggle** large, accessible targets (min 44px) for tablet/touch users.
-3. **Nielsen’s 1st Heuristic:** Never show a blank screen during a 3D render. Always show a percentage bar or progressive loading view.
+1. **Hick’s Law -** Avoid a cluttered UI. Use a **Tabbed Menu** (1. Room -> 2. Furniture -> 3. Preview) to limit choices per screen.
+2. **Fitts’s Law -** Make common actions like **Undo**, **Save**, and **3D Toggle** large, accessible targets (min 44px) for tablet/touch users.
+3. **Nielsen’s 1st Heuristic -** Never show a blank screen during a 3D render. Always show a percentage bar or progressive loading view.
 
