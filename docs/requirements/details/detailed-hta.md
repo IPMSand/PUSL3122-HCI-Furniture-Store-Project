@@ -1,58 +1,48 @@
+## **Hierarchical Task Analysis (HTA)**
 
-# 3. Finalized Non-Functional Requirements >>
+**Goal 0: Conduct a Furniture Visualization Consultation**
 
-### **1. Feedback & Visibility (HCI Principle)**
+### **1. Initialization & Search**
 
-- **System Status -** Provide immediate visual/textual confirmation for every action (e.g., Toast notifications for saving or color changes).
+- **1.1 Login -** Secure designer authentication.
     
-- **Performance Feedback -** Use a **Percentage Loading Bar ($0\% \rightarrow 100\%$)** or progressive sharpening for 3D renders.
-    
-- **Rationale -** **Initial Requirement** + **Survey Requirement** to manage user expectations during rendering wait times.
-    
-
-### **2. Error Prevention & Recovery**
-
-- **Correction Tools -** Mandatory visible **Undo/Redo buttons** on the main UI and `Ctrl+Z` shortcut support.
-    
-- **Data Protection -** Clear confirmation prompts before "Delete" or "Exit" actions to prevent accidental data loss.
-    
-- **Rationale -** **Initial Requirement** + **iCanDesign Benchmark** (ensuring mobile-friendly recovery).
+- **1.2 Retrieve/Create -** Search by **Client Name** or start a new file. (Survey Priority).
     
 
-### **3. Accessibility & Inclusivity**
+### **2. Room Construction (Precision Phase)**
 
-- **Readability -** Toggle to **Enlarge Measurement Fonts** ($m/cm$) for visibility during live consultations.
+- **2.1 Shape Selection -** Choose **Templates** (L-shape/Square) for speed.
     
-- **Visual Standards -** Follow WCAG guidelines for **Color Contrast** and font size to ensure readability in bright store lighting.
+- **2.2 Dimensional Input -** Enter exact **Numerical $m/cm$** in the sidebar. (IKEA Benchmark).
     
-- **Rationale -** **Initial Requirement** + **Survey Requirement** (Users identified small text as a pain point in IKEA Planner).
-    
-
-### **4. Efficiency & Simplicity**
-
-- **Progressive Disclosure -** Hide advanced styling/shading tools until the basic 2D layout is complete.
-    
-- **Streamlined Workflow -** Minimize the number of clicks required to move from Room Setup to 3D View.
-    
-- **Rationale -** **Initial Requirement** + **HCI Best Practice** to solve the cluttered interface issue identified in your research.
+- **2.3 Environmental Setup -** Set base wall/floor colors. (Sir's Requirement).
     
 
-### **5. Usability & Consistency**
+### **3. 2D Layout (The Interaction Loop)**
 
-- **Intuitive UI -** Use standard industry icons for "Save," "Rotate," and "Delete" so the app requires minimal training.
+- **3.1 Placement -** Drag furniture shapes onto the grid.
     
-- **Hybrid Input Logic -** Ensure numerical entry feels identical across both 2D and 3D modes.
+- **3.2 Transformation -** Resize/rotate using **Corner Handles**. (Survey Choice #1).
     
-- **Rationale -** **Initial Requirement** + **IKEA Planner Benchmark** (mirroring their high standard for precision input).
+- **3.3 Accessibility -** Toggle **Large Measurement Fonts** for the customer. (Raw Data Request).
+    
+- **3.4 Correction -** Use **Undo/Redo** or `Ctrl+Z` for mistakes.
     
 
-### **6. Performance & Engagement (Graphics)**
+### **4. 3D Visualization (The Presentation Phase)**
 
-- **Rendering Speed -** 3D views must generate without noticeable delays to keep the customer engaged during a consultation.
+- **4.1 Conversion -** Toggle 2D-to-3D view; monitor **Percentage Loading Bar**. (HCI Feedback).
     
-- **Visual Appeal -** Use high-quality textures and realistic lighting to create an immersive experience.
+- **4.2 Walkthrough -** Pan/Rotate camera to verify **"Spatial Fit"**. (Major User Pain Point).
     
-- **Rationale -** **Initial Requirement** + **iCanDesign Influence** (focusing on aesthetic "wow-factor" for the customer).
+- **4.3 Styling -** Apply **Global Themes** (e.g., Modern Blue) for instant style. (Sir's Requirement).
+    
 
+### **5. Completion & Handover**
 
-
+- **5.1 Final Save -** Commit to cloud portfolio.
+    
+- **5.2 Digital Share -** Generate **"Viewer Link"** for the customer. (Top Survey Demand).
+    
+- **5.3 Offline Export -** Generate PDF summary/image.
+    
