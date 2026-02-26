@@ -5,11 +5,7 @@
 > Please read the **[Contribution Guidelines](./CONTRIBUTING.md)** for rules on branching and commit message prefixes.
 
 ## Use 
-- `week1-analysis` branch for Analysis Phase
-- `week2-design` branch for Design Phase works
-- `week3-development` branch for Development Phase
-- `week4-testing` branch for testing Phase 
-- and only inside it's specific folder
+
   - `docs` for analysis
   - `design` for designs
   - `app` for development
