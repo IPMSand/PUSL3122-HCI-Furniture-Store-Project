@@ -3,6 +3,12 @@
 
 This project is built on primary research conducted in February 2026. The data establishes a clear requirement for a 3D visualization tool that balances beginner-friendly interaction with professional-grade precision.
 
+📂 Related Documents
+* [Survey Form (PDF)](./Survey-Form_%20Furniture%20Visualization%20&%20Design%20Tool.pdf)
+* [Statistical Analysis (PDF)](./Survey_Responses_Stat.pdf)
+* [Raw Data (CSV)](./User%20Experience%20Survey_%20Furniture%20Visualization%20&%20Design%20Tool%20.csv)
+
+
 ## **1. Participants Summary**
 
 ### **A. User Roles**
