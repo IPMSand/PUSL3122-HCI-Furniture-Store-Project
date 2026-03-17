@@ -4,6 +4,12 @@
 > [!IMPORTANT]  
 > Please read the **[Contribution Guidelines](./CONTRIBUTING.md)** for rules on branching and commit message prefixes.
 
+## Use 
+
+  - `docs` for analysis
+  - `design` for designs
+  - `app` for development
+  - `tests` for testing
 ## Initial Structure for now
 ```text
 /furniture-hci-project

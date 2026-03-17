@@ -1,7 +1,8 @@
 # 🚀 Team Collaboration Guide
 
 Follow these simple steps to contribute to our project.
-
+> [!Warning]
+> **Never work directly on the 'Main' branch.** Don't touch it.
 ---
 
 ## 1. Commit Keywords
@@ -16,7 +17,7 @@ Start every save (commit) with one of these:
 ## 2. Daily Workflow
 1. **Update:** Open GitHub Desktop and click **"Fetch origin"**.
 2. **Choose Week:** Click "Current Branch" and select **`week1-analysis`**.
-3. **New Task:** Click "New Branch" and name it: `folder/issue#-task-name` 
+3. **New Task:** Click "New Branch" and name it: `folder/task-name` 
    *(Example: `docs/1-user-research`)*
 4. **Save & Send:** Write your summary (bottom left) → **Commit** → **Publish branch**.
 
