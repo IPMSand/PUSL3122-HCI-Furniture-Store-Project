@@ -59,9 +59,6 @@ export default function Login() {
             <button type="button" className="link-button">
               Support
             </button>
-            <button type="button" className="mini-action">
-              In-house Login
-            </button>
           </div>
 
           <div className="form-wrap">
