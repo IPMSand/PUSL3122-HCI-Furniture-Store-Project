@@ -59,3 +59,8 @@ Each directory represents a specific phase of the project lifecycle. Click the l
 
 ## 6. License
 
+<p align="center">
+  <b>HCI MODULE FURNITURE WEB APPLICATION</b><br>
+  <i>PUSL3122: HCI, Computer Graphics and Visualization</i><br>
+  <b>Group 50</b>
+</p>
