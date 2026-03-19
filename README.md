@@ -35,12 +35,9 @@ The system allows users to define room specifications, interactively place items
 ## 3. Project Structure
 Each directory represents a specific phase of the project lifecycle. Click the links below for detailed documentation
 
-* **[/docs](./docs)**:  Analysis & Research
-    -  Detailed user-survey results, functional/non-functional requirements, HCI user personas, and technical specifications.
-* **[/design](./design)**:  UI/UX & Assets
-   - Low-fidelity wireframes, high-fidelity.
-* **[/app](./app)**:  Development Source
-   - Core React/Vite application including Login, Dashboard, Catalog, and 2D/3D Workspace components.
+* **[/docs](./docs)** :  Analysis & Research ( _Detailed user-survey results, functional/non-functional requirements, HCI user personas, and technical specifications._)
+* **[/design](./design)**: UI/UX & Assets (_Low-fidelity wireframes, high-fidelity._)
+* **[/app](./app)** : Development Source (_Core React/Vite application including Login, Dashboard, Catalog, and 2D/3D Workspace components._)
 
 ## 4. Functional Requirements
 * **Portfolio Management:** Secure designer login with Client Name search and full CRUD project capabilities.
