@@ -17,15 +17,14 @@ _Bridging the gap between imagination and interior design. An HCI-driven, web-ba
 
 
 
-## 1. About / Description
+## 1. About 
 **FurnishDesignStudio** is a specialized visualization tool designed for furniture retail environments. By integrating **Human-Computer Interaction (HCI)** principles, the application ensures high usability and efficiency for two primary user tiers:
 * **Primary Users:** Professional Interior Designers requiring precision and portfolio management.
 * **Secondary Stakeholders:** In-store customers who need a clear visual understanding of furniture placement.
 
 The system allows users to define room specifications, interactively place items via drag-and-drop, and instantly visualize the result in a WebGL-powered 3D environment.
 
-## 2. Tech Stack & Architecture
-The project is built as a **Single Page Application (SPA)** with a modular, component-based architecture:
+## 2. Tech Stack & Architecture:
 
 * **Core Engine:** React + Vite (Fast development & optimized builds).
 * **3-D Graphics:** React Three Fiber (R3F) & Drei (Real-time WebGL rendering).
@@ -34,7 +33,7 @@ The project is built as a **Single Page Application (SPA)** with a modular, comp
 * **HCI Logic:** Implemented "Direct Manipulation" patterns for scaling, rotating, and placing objects.
 
 ## 3. Project Structure
-Each directory represents a specific phase of the project lifecycle. Click the links below for detailed documentation:
+Each directory represents a specific phase of the project lifecycle. Click the links below for detailed documentation
 
 * **[/docs](./docs)**: **Analysis & Research** — Detailed functional/non-functional requirements, HCI user personas, and technical specifications.
 * **[/design](./design)**: **UI/UX & Assets** — Low-fidelity wireframes, high-fidelity Figma/Adobe XD export.
