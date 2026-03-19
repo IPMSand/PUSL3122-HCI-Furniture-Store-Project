@@ -26,18 +26,21 @@ The system allows users to define room specifications, interactively place items
 
 ## 2. Tech Stack & Architecture:
 
-* **Core Engine:** React + Vite (Fast development & optimized builds).
-* **3-D Graphics:** React Three Fiber (R3F) & Drei (Real-time WebGL rendering).
-* **Routing:** React Router for seamless navigation (Login, Dashboard, Catalog, Workspace).
-* **State & Persistence:** React Hooks (`useState`, `useEffect`) and LocalStorage API.
-* **HCI Logic:** Implemented "Direct Manipulation" patterns for scaling, rotating, and placing objects.
+* Core Engine: React + Vite (Fast development & optimized builds).
+* 3-D Graphics: React Three Fiber (R3F) & Drei (Real-time WebGL rendering).
+* Routing: React Router for seamless navigation (Login, Dashboard, Catalog, Workspace).
+* State & Persistence: React Hooks (`useState`, `useEffect`) and LocalStorage API.
+* HCI Logic: Implemented "Direct Manipulation" patterns for scaling, rotating, and placing objects.
 
 ## 3. Project Structure
 Each directory represents a specific phase of the project lifecycle. Click the links below for detailed documentation
 
-* **[/docs](./docs)**: **Analysis & Research** — Detailed functional/non-functional requirements, HCI user personas, and technical specifications.
-* **[/design](./design)**: **UI/UX & Assets** — Low-fidelity wireframes, high-fidelity Figma/Adobe XD export.
-* **[/app](./app)**: **Development Source** — Core React/Vite application including Login, Dashboard, Catalog, and 2D/3D Workspace components.
+* **[/docs](./docs)**:  Analysis & Research
+    -  Detailed user-survey results, functional/non-functional requirements, HCI user personas, and technical specifications.
+* **[/design](./design)**:  UI/UX & Assets
+   - Low-fidelity wireframes, high-fidelity.
+* **[/app](./app)**:  Development Source
+   - Core React/Vite application including Login, Dashboard, Catalog, and 2D/3D Workspace components.
 
 ## 4. Functional Requirements
 * **Portfolio Management:** Secure designer login with Client Name search and full CRUD project capabilities.
@@ -49,22 +52,10 @@ Each directory represents a specific phase of the project lifecycle. Click the l
 
 ## 5. Getting Started
 
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation & Setup
-1. Clone the repository
-2. ```bash
-   cd app
-   ```
-3. ```bash
-   cd FurnishDesign
-   ```
-4. ```bash
-   npm install
-   npm run dev
-   ```
+1. **Clone the repository:** 
+2. **Navigate to app:** `cd app` and `cd FurnishDesignStudio`
+3. **Install:** `npm install`
+4. **Launch:** `npm run dev`
 
 ## 6. License
 
