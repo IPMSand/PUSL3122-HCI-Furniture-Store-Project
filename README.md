@@ -1,17 +1,21 @@
 # HCI FURNITURE STORE APPLICATION -  FurnishDesignStudio 🛋️
 
-**Bridging the gap between imagination and interior design.** > An HCI-driven, web-based furniture visualization system that empowers designers and customers to plan, customize, and experience spaces in real-time.
+Bridging the gap between imagination and interior design. An HCI-driven, web-based furniture visualization system that empowers designers and customers to plan, customize, and experience spaces in real-time.
 
 [![Vite](https://img.shields.io/badge/Build-Vite-646cff.svg)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/UI-React-61dafb.svg)](https://reactjs.org/)
 [![ThreeJS](https://img.shields.io/badge/Graphics-Three.js-black.svg)](https://threejs.org/)
 [![HCI Principles](https://img.shields.io/badge/Design-HCI%20Compliant-blueviolet.svg)]()
 
----
 
-## 1. Visuals
-![App Preview](https://via.placeholder.com/800x400?text=FurnishDesignStudio+Interface+Preview)
-*Screenshot: Seamless transition between 2D planning and 3D immersive walkthroughs.*
+## 1.  Visuals
+
+<p align="center">
+  <img src="./tests/home.png" alt="FurnishDesignStudio Home Preview" width="800">
+  <br>
+  <b>Figure 1:</b> 
+
+
 
 ## 2. About / Description
 **FurnishDesignStudio** is a specialized visualization tool designed for furniture retail environments. By integrating **Human-Computer Interaction (HCI)** principles, the application ensures high usability and efficiency for two primary user tiers:
