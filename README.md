@@ -57,7 +57,11 @@ Each directory represents a specific phase of the project lifecycle. Click the l
 3. **Install:** `npm install`
 4. **Launch:** `npm run dev`
 
-## 6. License
+## 6. 📜 License & Copyright
+
+Copyright (c) 2026 **Group 50** - PUSL3122. All rights reserved.
+
+---
 
 <p align="center">
   <b>HCI MODULE FURNITURE WEB APPLICATION</b><br>
