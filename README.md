@@ -11,10 +11,13 @@ _Bridging the gap between imagination and interior design. An HCI-driven, web-ba
 
 
 <p align="center">
-  <img src="./tests/home.png" alt="FurnishDesignStudio Home Preview" width="800">
+  <img src="./tests/home.png" alt="FurnishDesignStudio Home Preview" width="1000">
   <br>
   <b>Figure 1:</b> 
-
+<!-- <p align="center">
+  <img src="./tests/2d.png" alt="FurnishDesignStudio Home Preview" width=900">
+  <br>
+  <b>Figure 2:</b>  -->
 
 
 ## 1. About 
